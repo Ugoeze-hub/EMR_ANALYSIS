@@ -1,8 +1,30 @@
-EMR analysis offline.xlsx
-EMR analysis online.xlsx
-EMR_analysis_online_updated.xlsx
-EMR_analysis_offline_updated.xlsx
-EMR_analysis_both_merged.xlsx
-EMR_analysis_cleaned_&_merged.xlsx
-datasets
-datasets/Final_EMR_analysis_data.xlsx
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+
+# Data Files (Ignored for privacy & version control size limit)
+# Note: Keep directory structure via .gitkeep
+data/raw/*.xlsx
+data/raw/*.csv
+data/processed/*.xlsx
+data/processed/*.csv
+*.xlsx
+*.csv
