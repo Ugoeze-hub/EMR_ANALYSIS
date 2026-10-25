@@ -68,7 +68,7 @@ Requires Python 3.9+.
 
 ```bash
 # Clone repository
-git clone https://github.com/adamlawal/EMR_ANALYSIS.git
+git clone https://github.com/Ugoeze-hub/EMR_ANALYSIS.git
 cd EMR_ANALYSIS
 
 # Create virtual environment
